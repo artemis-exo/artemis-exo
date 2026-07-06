@@ -50,4 +50,4 @@ I'm Vedaant Bisht
 * ⚡ **Fun Fact:** When I'm not tracing algorithmic workflows or tuning decision boundary hyper-parameters, you'll find me playing chess, gaming, or experimenting in the kitchen. 
 * 🤝 **Open to:** Academic research collaborations, applied machine learning challenges, full-stack software development projects, or discussing interesting DSA optimizations!
 
-📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdcjbkWsv&urlhash=eJte&mt=IwgZ0cyptnLZBw_hW1w9fDiTdS5e5odPfPUtsXXFggf37-bDGGzBRMeG-ez6NLAsVmB0vbNDspJ3lSQ6gdyunQApXtdq_L-7FifabXIH-CIJWVfth8QvN7630A&isSdui=true)) | [LeetCode]([https://leetcode.com](https://leetcode.com/u/Artemis6644)) | `roshanchandola2006@gmail.com`
+📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdcjbkWsv&urlhash=eJte&mt=IwgZ0cyptnLZBw_hW1w9fDiTdS5e5odPfPUtsXXFggf37-bDGGzBRMeG-ez6NLAsVmB0vbNDspJ3lSQ6gdyunQApXtdq_L-7FifabXIH-CIJWVfth8QvN7630A&isSdui=true)) | [LeetCode]([https://leetcode.com](https://leetcode.com/u/Artemis6644)) | `vedaantbisht@gmail.com`
