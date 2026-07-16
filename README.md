@@ -39,7 +39,7 @@ I'm Vedaant Bisht
 
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"There is no such thing as magic, just illusion. Things only change when we change them. But you have to do it skillfully, in secret. Then it seems like magic."
 
 ---
 [![](https://komarev.com/ghpvc/?username=artemis-exo&icon=0&color=0)](https://visitcount.itsvg.in)
