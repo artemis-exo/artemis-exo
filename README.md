@@ -1,53 +1,111 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Vedaant Bisht 👋</h1>
 
-I'm Vedaant Bisht
+<h3 align="center">🚀 MCA (AI & ML) Student | DSA Enthusiast | Aspiring Backend Developer</h3>
 
-🚀 **MCA (AI & ML) Student** with a passion for building scalable, data-driven applications. I bridge the gap between **Full-Stack Development** and **Machine Learning**, focusing on clean software architecture, robust engineering pipelines, and rigorous analytical problem-solving.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Solving+DSA+problems+in+Java;Exploring+AI+%26+Machine+Learning;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-🧠 **What I'm up to:** 
-* Advancing my expertise in Machine Learning Algorithms, robust feature engineering, and productionizing predictive models.
-* Continuous learner dedicated to expanding my technical horizon: transitioning from foundational Machine Learning to productionizing Deep Learning, GenAI, RAG systems, and Agentic AI.
-* Sharpening my core CS fundamentals (Operating Systems, Computer Networks, DBMS) alongside modern AI workflows.
-* 2nd Runner-Up in the University Tech Quiz Challenge and led the engineering of a real-time Quiz Platform for Techfest.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedaant-bisht-0512371bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vedaantbisht@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Artemis6644">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-💻 **Problem Solving:** I am highly active in algorithmic puzzle-solving, having successfully cracked **600+ problems on platforms like LeetCode and Gfg** using **Java** and Python. I enjoy diving into the internal mechanics of complex data structures and optimizing execution runtimes.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=artemis-exo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=artemis-exo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=artemis-exo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-### ✍️ Random Dev Quote
-"There is no such thing as magic, just illusion. Things only change when we change them. But you have to do it skillfully, in secret. Then it seems like magic."
-
----
-[![](https://komarev.com/ghpvc/?username=artemis-exo&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artemis-exo&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/artemis-exo?style=for-the-badge&color=blue" alt="Followers" />
+</p>
 
 ---
 
-### 📈 Profile Metrics & Status
-* ⚡ **Fun Fact:** When I'm not tracing algorithmic workflows or tuning decision boundary hyper-parameters, you'll find me playing chess, gaming, or experimenting in the kitchen. 
-* 🤝 **Open to:** Academic research collaborations, applied machine learning challenges, full-stack software development projects, or discussing interesting DSA optimizations!
+### 🧠 About Me
 
-📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdcjbkWsv&urlhash=eJte&mt=IwgZ0cyptnLZBw_hW1w9fDiTdS5e5odPfPUtsXXFggf37-bDGGzBRMeG-ez6NLAsVmB0vbNDspJ3lSQ6gdyunQApXtdq_L-7FifabXIH-CIJWVfth8QvN7630A&isSdui=true)) | [LeetCode]([https://leetcode.com](https://leetcode.com/u/Artemis6644)) | `vedaantbisht@gmail.com`
+- 🎓 Pursuing **MCA (AI & ML)** — bridging Full-Stack Development and Machine Learning
+- 💻 Focused on **Java, Spring Boot, REST APIs** and building scalable backend systems
+- 📊 Solving **DSA problems daily** — graphs, DP, and everything in between
+- 🤖 Exploring **Machine Learning** models and data-driven applications
+- 🌱 Currently deepening knowledge in **Microservices, System Design & Distributed Systems**
+- 🤝 Open to collaborating on **backend, AI/ML, and full-stack projects**
+
+---
+
+### ⚡ Tech Stack
+
+**Languages & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,mongodb&perline=9" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
+
+**AI / ML & Data**
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Frontend & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,docker,linux,kafka,redis&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=artemis-exo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemis-exo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemis-exo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemis-exo&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=artemis-exo&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Artemis6644?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedaant-bisht-0512371bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vedaantbisht@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Artemis6644">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+</p>
