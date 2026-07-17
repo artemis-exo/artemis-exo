@@ -61,14 +61,11 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=artemis-exo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=artemis-exo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=artemis-exo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=artemis-exo&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com/?user=artemis-exo&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=artemis-exo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -100,8 +97,16 @@
   <a href="https://leetcode.com/u/Artemis6644">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/vedaantwvch">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
+---
+
+### 💭 Quote
+
 <p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <i>"There is no such thing as magic, just illusion. Things only change when we change them. But you have to do it skillfully, in secret. Then it seems like magic."</i>
+  <br />
 </p>
