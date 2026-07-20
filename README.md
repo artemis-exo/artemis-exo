@@ -29,19 +29,26 @@
 
 - 🎓 Pursuing **MCA (AI & ML)** — bridging Full-Stack Development and Machine Learning
 - 💻 Focused on **Java, Spring Boot, REST APIs** and building scalable backend systems
-- 📊 Solving **DSA problems daily** — graphs, DP, and everything in between
+- 📊 Solving **DSA problems daily** — not for maintaining streak, just to satisfy my soul
 - 🤖 Exploring **Machine Learning** models and data-driven applications
 - 🌱 Currently deepening knowledge in **Microservices, System Design & Distributed Systems**
 - 🤝 Open to collaborating on **backend, AI/ML, and full-stack projects**
 
+**🏅 Achievements**
+- 📈 95 percentile nationally (564/800), 96 percentile within college — **CoCubes Assessment**
+- 🏆 Rank 2897 — LeetCode Weekly Contest 504 (out of 34,267+ participants)
+- 🏆 Rank 3887 — LeetCode Biweekly Contest 186 (out of 39,050+ participants)
+- 🏆 Rank 3401 — LeetCode Weekly Contest 510 (out of 40,113+ participants)
+- ✅ Solved **700+ problems** across LeetCode, GeeksforGeeks
+- 🥇 5th position — Quiz Rivals, Festla 8.O, UIM, Uttaranchal University
+
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tech Stack & Arsenal
 
 **Languages & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,mongodb&perline=9" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,mysql,postgres,mongodb&perline=9" />
 </p>
 
 **AI / ML & Data**
@@ -69,7 +76,13 @@
 
 ---
 
+### 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artemis-exo&theme=react-dark&hide_border=false" />
+</p>
+
+---
 
 ### 📈 LeetCode Stats
 
