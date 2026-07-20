@@ -38,7 +38,7 @@
 - 📈 95 percentile nationally (564/800), 96 percentile within college — **CoCubes Assessment**
 - 🏆 Rank 2897 — LeetCode Weekly Contest 504 (out of 34,267+ participants)
 - 🏆 Rank 3887 — LeetCode Biweekly Contest 186 (out of 39,050+ participants)
-- 🏆 Rank 3401 — LeetCode Weekly Contest 510 (out of 40,113+ participants)
+- 🏆 Rank 2848 — LeetCode Weekly Contest 510 (out of 40,113+ participants)
 - ✅ Solved **700+ problems** across LeetCode, GeeksforGeeks
 - 🥇 5th position — Quiz Rivals, Festla 8.O, UIM, Uttaranchal University
 
